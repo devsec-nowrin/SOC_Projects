@@ -7,7 +7,7 @@ The objective of this lab is to implement and analyze **File Integrity Monitorin
 
 ## Environment Setup
 - **Wazuh Manager:** Installed on server (IP: `192.168.0.209`)  
-- **Wazuh Agent:** Installed on endpoint (Ubuntu, IP: `192.168.0.181`)  
+- **Wazuh Agent:** Installed on endpoint (Ubuntu, IP: `192.168.218.129`)  
 - **Operating System:** Ubuntu Linux  
 - **Configuration Access:** `/var/ossec/etc/ossec.conf` (editable via `sudo nano`)  
 
